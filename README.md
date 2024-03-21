@@ -6,6 +6,8 @@ To run this script, navigate to the directory containing the `generate_volumes.s
 
 ```bash
 bash generate_volumes.sh
+```
+
 # Docker Compose File
 
 The Docker Compose file is a YAML file that defines services, networks, and volumes. It allows you to manage your application's services as a single unit. 
