@@ -1,3 +1,11 @@
+# Generate Volumes Script
+
+The `generate_volumes.sh` is a bash script used to create a specific directory structure on your local machine. This script creates directories named `data1-1`, `data1-2`, ..., `data4-2`, and inside each directory, it creates subdirectories named `data1` and `data2`.
+
+To run this script, navigate to the directory containing the `generate_volumes.sh` file and use the following command:
+
+```bash
+bash generate_volumes.sh
 # Docker Compose File
 
 The Docker Compose file is a YAML file that defines services, networks, and volumes. It allows you to manage your application's services as a single unit. 
